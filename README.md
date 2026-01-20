@@ -26,14 +26,10 @@ Aqui você encontrará:
 
 
 
-
-
-
 ---
 
-## 📫 Contato
-- GitHub: https://github.com/seu-usuario  
-- LinkedIn: (adicione aqui, se tiver)
+## 📫 Contato 
+- LinkedIn: https://www.linkedin.com/in/emanuelle-de-abreu-caetano-149876289/
 
 ---
 ⭐ Sinta-se à vontade para explorar meus repositórios!
