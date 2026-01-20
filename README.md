@@ -15,16 +15,6 @@ Tenho foco em construir soluções funcionais, organizadas e com código limpo, 
 - Python  
 - Git & GitHub  
 
----
-
-## 📂 Projetos
-Aqui você encontrará:
-- Projetos de estudo e prática
-- Sites desenvolvidos com HTML, CSS e JavaScript
-- Trabalhos acadêmicos
-- Experimentos e testes de novas tecnologias
-
-
 
 ---
 
@@ -32,4 +22,4 @@ Aqui você encontrará:
 - LinkedIn: https://www.linkedin.com/in/emanuelle-de-abreu-caetano-149876289/
 
 ---
-⭐ Sinta-se à vontade para explorar meus repositórios!
+
