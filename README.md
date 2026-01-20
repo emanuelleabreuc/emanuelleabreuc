@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👩‍💻 Emanuelle de Abreu Caetano
 
-<!--
-**emanuelleabreuc/emanuelleabreuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Sobre mim
+Sou estudante de **Engenharia da Computação**, atualmente no **5º período**. Utilizo este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pessoais.
+Tenho foco em construir soluções funcionais, organizadas e com código limpo, sempre buscando evoluir minhas habilidades técnicas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Linguagens
+- HTML5  
+- CSS3  
+- JavaScript  
+- C  
+- Java  
+- Python  
+- Git & GitHub  
+
+---
+
+## 📂 Projetos
+Aqui você encontrará:
+- Projetos de estudo e prática
+- Sites desenvolvidos com HTML, CSS e JavaScript
+- Trabalhos acadêmicos
+- Experimentos e testes de novas tecnologias
+
+
+
+
+
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/seu-usuario  
+- LinkedIn: (adicione aqui, se tiver)
+
+---
+⭐ Sinta-se à vontade para explorar meus repositórios!
