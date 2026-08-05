@@ -1,15 +1,14 @@
 # 👩‍💻 Emanuelle de Abreu Caetano
 
 ## 📌 Sobre mim
-Sou estudante de **Engenharia da Computação**, atualmente no **5º período**. Utilizo este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pessoais.
+Sou estudante de **Engenharia da Computação**, atualmente no **6º período**. Utilizo este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pessoais.
 Tenho foco em construir soluções funcionais, organizadas e com código limpo, sempre buscando evoluir minhas habilidades técnicas.
 
 ---
 
 ## 🛠️ Tecnologias e Linguagens
 - HTML5  
-- CSS3  
-- JavaScript  
+- CSS3    
 - C  
 - Java  
 - Python  
