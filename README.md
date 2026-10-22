@@ -9,7 +9,7 @@ Tenho foco em construir soluções funcionais, organizadas e com código limpo, 
 ## 🛠️ Tecnologias e Linguagens
 - HTML5  
 - CSS3    
-- C  
+- C#
 - Java  
 - Python  
 - Git & GitHub  
