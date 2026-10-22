@@ -2,8 +2,7 @@
 
 ## 📌 Sobre mim
 Sou estudante de **Engenharia da Computação**, atualmente no **6º período**. Utilizo este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pessoais.
-Tenho foco em construir soluções funcionais, organizadas e com código limpo, sempre buscando evoluir minhas habilidades técnicas.
-
+Tenho foco em construir soluções funcionais, organizadas e com código limpo.
 ---
 
 ## 🛠️ Tecnologias e Linguagens
