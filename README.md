@@ -23,7 +23,7 @@
 
 Uso este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pessoais. Gosto de construir soluções funcionais, organizadas e com código limpo.
 
-- 🎓 Cursando **Engenharia da Computação** na UVV
+- 🎓 Cursando **Engenharia da Computação** 
 - 🌱 Estudando **back-end com Python** (FastAPI + PostgreSQL)
 - 🤖 Automatizando coisas do dia a dia com **Python + Selenium**
 - 🌐 Desenvolvo **sites para comércios locais** como freelancer
