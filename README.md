@@ -39,20 +39,3 @@ Uso este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pe
   <img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emanuelleabreuc&show_icons=true&hide_border=true&bg_color=0A1931&title_color=4FC3F7&icon_color=1E6FD9&text_color=C9D1D9&locale=pt-br"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelleabreuc&layout=compact&hide_border=true&bg_color=0A1931&title_color=4FC3F7&text_color=C9D1D9&locale=pt-br"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emanuelleabreuc&label=Visualizações&color=1E6FD9&style=for-the-badge"/>
-</p>
-
-<!-- Rodapé -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E6FD9,100:0A1931&section=footer" width="100%"/>
-</p>
