@@ -16,18 +16,19 @@
 ## 👩‍💻 Oi, eu sou a Emanuelle!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&vCenter=true&width=420&lines=Engenharia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+em+forma%C3%A7%C3%A3o;Back-end+com+Python+%F0%9F%90%8D;Sempre+aprendendo+algo+novo+%E2%9C%A8" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&vCenter=true&width=420&lines=Desenvolvedora+Python+%F0%9F%90%8D;Automa%C3%A7%C3%B5es+com+IA+%F0%9F%A4%96;Back-end+%7C+APIs+%7C+Web;Engenharia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG"/>
 </a>
 
-*Estudante de Engenharia da Computação (6º período)*
+*Desenvolvedora Python · Automações com IA · Engenharia da Computação*
 
-Uso este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pessoais. Gosto de construir soluções funcionais, organizadas e com código limpo.
+Crio soluções que automatizam tarefas e economizam tempo, com código limpo, organizado e funcional.
 
-- 🌱 Estudando **back-end com Python** (FastAPI + PostgreSQL)
-- 🤖 Automatizando coisas do dia a dia com **Python + Selenium**
-- 🌐 Desenvolvo **sites para comércios locais** como freelancer
+- 🤖 Desenvolvo **automações com IA** para agilizar processos e tarefas do dia a dia
+- 🐍 Programo em **Python**: scripts, bots e automação web com **Selenium**
+- ⚙️ Construo **back-end e APIs** com **FastAPI** e **PostgreSQL**
+- 🌐 Crio **sites para negócios locais** como freelancer
 - 💼 Aberta a oportunidades de **estágio em TI**
-- 💻 Veja mais sobre mim no meu [**Portfólio**](https://emanuelleabreuc.github.io/portfolio/)
+- 💻 Veja meus projetos no meu [**Portfólio**](https://emanuelleabreuc.github.io/portfolio/)
 
 <br clear="right"/>
 
@@ -36,6 +37,23 @@ Uso este GitHub para praticar, aprender e compartilhar projetos acadêmicos e pe
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cs,java,html,css,js,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,selenium,c,cs,java,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emanuelleabreuc&show_icons=true&hide_border=true&bg_color=0A1931&title_color=4FC3F7&icon_color=1E6FD9&text_color=C9D1D9&locale=pt-br"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelleabreuc&layout=compact&hide_border=true&bg_color=0A1931&title_color=4FC3F7&text_color=C9D1D9&locale=pt-br"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emanuelleabreuc&label=Visualizações&color=1E6FD9&style=for-the-badge"/>
+</p>
+
+<!-- Rodapé -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E6FD9,100:0A1931&section=footer" width="100%"/>
+</p>
