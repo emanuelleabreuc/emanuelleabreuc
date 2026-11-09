@@ -17,7 +17,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&vCenter=true&width=420&lines=Desenvolvedora+Python+%F0%9F%90%8D;Automa%C3%A7%C3%B5es+com+IA+%F0%9F%A4%96;Back-end+%7C+APIs+%7C+Web;Engenharia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG"/>
 </a>
 
-<img align="right" src="./avatar.svg" width="280"/>
 
 *Desenvolvedora Python · Automações com IA · Engenharia da Computação*
 
